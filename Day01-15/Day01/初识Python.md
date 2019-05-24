@@ -1,4 +1,4 @@
-## Day01 - 初识Python
+## Day01 - 初识Python（done）
 
 ### Python简介
 
